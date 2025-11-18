@@ -1,7 +1,10 @@
 ---
 title: "aula04"
 subtitle: "ME315-2S2025"
-author: "**brotto**"
+author: 
+  - "**brotto**"
+  - "Rafael Gomes Carneiro - RA185462"
+  - "Bruce Trevisan - RA277200"
 date: "`r Sys.Date()`"
 output:
   pdf_document:
@@ -1034,6 +1037,7 @@ a column separator -->
 >
 
 \hrule
+
 
 
 
